@@ -26,7 +26,7 @@ Education
       <span style="font-weight:normal">Aug. 2018 - Present</span>
     </th>
     <th style="text-align:left">
-      PhD Student <span style="font-weight:normal">in Computer Engineering at </span>Virgina Tech
+      PhD Student <span style="font-weight:normal"> Computer Engineering at </span>Virgina Tech
     </th>
   </tr>
 
