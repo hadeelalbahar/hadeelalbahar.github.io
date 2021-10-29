@@ -32,7 +32,7 @@ Education
 
   <tr style="font-size:16px">
     <th style="text-align:right">
-      <span style="font-weight:normal">Aug. 2016 - Feb 2016</span>
+      <span style="font-weight:normal">Aug. 2014 - Feb 2016</span>
     </th>
     <th style="text-align:left">
       Master of Science <span style="font-weight:normal">in Computer Engineering from</span> Columbia Univeristy
