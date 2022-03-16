@@ -11,7 +11,7 @@ redirect_from:
 About me
 ======
 
-I am a Ph.D. student working with [Prof. Ali R. Butt](https://people.cs.vt.edu/butta/) in the [Distributed Systems & Storage Laboratory](https://dssl.cs.vt.edu/) at the department of Electrical and Computer Engineering at Virginia Tech. I am funded by [Kuwait University](http://www.kuniv.edu.kw) to pursue both my M.S. and Ph.D. degrees.
+I am a Ph.D. candidate working with [Prof. Ali R. Butt](https://people.cs.vt.edu/butta/) in the [Distributed Systems & Storage Laboratory](https://dssl.cs.vt.edu/) at the department of Electrical and Computer Engineering at Virginia Tech. I am funded by [Kuwait University](http://www.kuniv.edu.kw) to pursue both my M.S. and Ph.D. degrees.
 
 My research interests include cluster management systems, serverless computing, containerization, cloud computing, distributed file and storage systems, and performance analysis.
 
