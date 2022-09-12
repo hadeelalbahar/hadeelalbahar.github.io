@@ -11,9 +11,9 @@ redirect_from:
 About me
 ======
 
-I am a Ph.D. candidate working with [Prof. Ali R. Butt](https://people.cs.vt.edu/butta/) in the [Distributed Systems & Storage Laboratory](https://dssl.cs.vt.edu/) at the department of Electrical and Computer Engineering at Virginia Tech. I am a recipient of [Kuwait University](http://www.kuniv.edu.kw) scholarship to pursue both my M.S. and Ph.D. degrees.
+I am a Ph.D. candidate working with [Prof. Ali R. Butt](https://people.cs.vt.edu/butta/) in the [Distributed Systems & Storage Laboratory](https://dssl.cs.vt.edu/) at the department of Electrical and Computer Engineering at Virginia Tech. I am a recipient of Kuwait University scholarship to pursue both my M.S. and Ph.D. degrees.
 
-My research interests include cluster management systems, serverless computing, containerization, cloud computing, machine learning, distributed file and storage systems, and performance analysis.
+My research interests include Distributed Systems, High Performance Computing, Systems for ML, and ML for Systems. I am currently interested in optimizing the performance of systems for ML.
 
 You can find my CV [here](https://filebox.ece.vt.edu/~hadeel89/hadeelcv.pdf).
 
