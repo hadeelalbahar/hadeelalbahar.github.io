@@ -17,6 +17,11 @@ My research interests include Distributed Systems, High Performance Computing, S
 
 You can find my CV [here](https://filebox.ece.vt.edu/~hadeel89/hadeelcv.pdf).
 
+Research
+======
+
+I have been performing research on containers, container management systems (e.g., Kubernetes), and system schedulers for ML jobs on heterogeneous resources. Recently, I analyzed the performance of ML jobs on heterogeneous single-GPUs and proposed a heterogeneity-aware GPU scheduler that utilizes ML-based resource and runtime predictions as well as GPU sharing (i.e., GPU collocation) to improve GPU allocation and utilization and ensure the successful completion of ML jobs in heterogeneous GPU clusters. [Click here to read our CCGrid 2022 papar](http://academicpages.github.io/files/ccgrid22-schedtune.pdf).
+
 Education
 ======
 
