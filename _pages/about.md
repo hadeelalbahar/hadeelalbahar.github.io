@@ -26,10 +26,10 @@ Education
 <table style="width:100%">
   <tr style="font-size:16px">
     <th style="text-align:right">
-      <span style="font-weight:normal">Aug. 2018 - Present</span>
+      <span style="font-weight:normal">Aug. 2018 - May. 2023</span>
     </th>
     <th style="text-align:left">
-      PhD Candidate <span style="font-weight:normal"> in Computer Engineering at </span>Virginia Tech
+      PhD <span style="font-weight:normal"> in Computer Engineering from </span>Virginia Tech
     </th>
   </tr>
 
@@ -52,7 +52,7 @@ Education
   </tr>
 </table>
 
-<!-- * **PhD Student** in Computer Engineering at **Virgina Tech** _(Aug. 2018 - Present)_
+<!-- * **PhD Student** in Computer Engineering at **Virgina Tech** _(Aug. 2018 - May. 2023)_
 * **Master of Science** in Computer Engineering from **Columbia University** _(Aug. 2014 - Feb. 2016)_
 * **Bachelor of Science** in Computer Engineering from **Kuwait University** _(Sep. 2007 - Jan. 2012)_
  -->
