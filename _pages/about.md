@@ -18,7 +18,7 @@ You can find my CV [here](https://hadeelalbahar.github.io/files/hadeelcv.pdf).
 Research
 ======
 
-I have been performing research on containers, container management systems (e.g., Kubernetes), and system schedulers for ML jobs on heterogeneous resources. Recently, I analyzed the performance of ML jobs on heterogeneous single-GPUs and proposed a heterogeneity-aware GPU scheduler that utilizes ML-based resource and runtime predictions as well as GPU sharing (i.e., GPU collocation) to improve GPU allocation and utilization and ensure the successful completion of ML jobs in heterogeneous GPU clusters. [Click here to read our CCGrid 2022 papar](https://hadeelalbahar.github.io/files/ccgrid22-schedtune.pdf).
+I have conducted research on containers, container management systems such as Kubernetes, and system schedulers for Machine Learning (ML) jobs on various resources. Recently, I analyzed the performance of ML jobs on heterogeneous single-GPUs and developed a heterogeneity-aware GPU scheduler. This scheduler utilizes ML-based predictions of resources and runtime, as well as GPU sharing (GPU collocation), to enhance GPU allocation and utilization. The proposed scheduler ensures the successful completion of ML jobs in heterogeneous GPU clusters. [Click here to read our CCGrid 2022 papar](https://hadeelalbahar.github.io/files/ccgrid22-schedtune.pdf).
 
 Education
 ======
