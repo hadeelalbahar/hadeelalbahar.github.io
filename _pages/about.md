@@ -29,7 +29,7 @@ Education
       <span style="font-weight:normal">Aug. 2018 - May. 2023</span>
     </th>
     <th style="text-align:left">
-      PhD <span style="font-weight:normal"> in Computer Engineering from </span>Virginia Tech
+      Ph.D. <span style="font-weight:normal"> in Computer Engineering from </span>Virginia Tech
     </th>
   </tr>
 
