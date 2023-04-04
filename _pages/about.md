@@ -28,7 +28,7 @@ Education
 <table style="width:100%">
   <tr style="font-size:16px">
     <th style="text-align:right">
-      <span style="font-weight:normal">Aug. 2018 - May. 2023</span>
+      <span style="font-weight:normal">Aug. 2018 - May 2023</span>
     </th>
     <th style="text-align:left">
       Ph.D. <span style="font-weight:normal"> in Computer Engineering from </span>Virginia Tech
