@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=OTtYVgYAAAAJ&hl=en"
-  email            : "hadeel89@vt.edu"
+  email            : # "hadeel89@vt.edu"
   researchgate     : "https://www.researchgate.net/profile/Hadeel-Albahar-2"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "hadeelalbahar"
+  twitter          : # "hadeelalbahar"
   vine             :
   weibo            :
   xing             :
